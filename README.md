@@ -1,4 +1,4 @@
-**👋Hello! I'm Teresa, a 1st-year CS Student @ UC Irvine.**
+**👋Hello! I'm Teresa, a 2nd-year CS Student @ UC Irvine.**
 
 I'm interested in exploring both the front & back-end development so that I can create products
 that will make things easier and simpler for everyone! I'm always looking for more opportunities
