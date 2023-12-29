@@ -1,6 +1,6 @@
-**👋Hello! I'm Teresa, a 2nd-year student studying Computer Science and Statistics @ UC Irvine.**
+**👋Hello! I'm Teresa, a 3rd-year student studying Computer Science and Statistics @ UC Irvine.**
 
-I'm interested in exploring front & back-end development, data science, and anything in between so that I can create products
+I'm interested in exploring front & back-end development, biotechnology, data science, and anything in between so that I can create products
 that will make things easier and simpler for everyone!
 📫 If you want to reach me, just find me on
 [LinkedIn](https://www.linkedin.com/in/teresa-liang-605997185/) or send me an [email](teresaliang2003@gmail.com).
